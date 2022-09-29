@@ -1,0 +1,2 @@
+def getHash(str):
+    pass
