@@ -18,6 +18,7 @@ Using form of CD: containerization using docker, followed by deployment to Docke
 
 Use command:
 python /dir**/FaceRecognition/manage.py runserver
+
 where dir** - location of project
 
 ## Contributors
