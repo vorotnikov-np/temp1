@@ -14,20 +14,10 @@ The interface is implemented as a web application. User is able to use test data
 
 Using form of CD: containerization using docker, followed by deployment to DockerHub
 
-## How to start
-
-Firstly you need to install [Docker](https://www.docker.com/products/docker-desktop) on your machine
-
-To download docker image use next command:
-```
-docker pull kz16/face-recognition
-```
 
 ## Contributors
 1. Воротников Никита Павлович - [vorotnikovNP](https://github.com/vorotnikovNP) - 3530904/90104
-2. Кундик Никита Владимирович - [kundikn](https://github.com/kundikn) - 3530904/90104
-3. Фофанов Валерий Валерьевич - [farnamval](https://github.com/farnamval) - 3530904/90102
-4. Шивов Кирилл Александрович - [kz-16](https://github.com/kz-16) - 3530904/90106
+2. Шивов Кирилл Александрович - [kz-16](https://github.com/kz-16) - 3530904/90106
 
 ## Common libraries & dependencies
 
