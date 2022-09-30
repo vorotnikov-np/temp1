@@ -14,7 +14,7 @@ The interface is implemented as a web application. User is able to use test data
 
 Using form of CD: containerization using docker, followed by deployment to DockerHub
 
-## Introduction
+## How to start
 
 Use command:
 python /dir**/FaceRecognition/manage.py runserver
