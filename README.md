@@ -14,6 +14,11 @@ The interface is implemented as a web application. User is able to use test data
 
 Using form of CD: containerization using docker, followed by deployment to DockerHub
 
+## Introduction
+
+Use command:
+python /dir**/FaceRecognition/manage.py runserver
+where dir** - location of project
 
 ## Contributors
 1. Воротников Никита Павлович - [vorotnikovNP](https://github.com/vorotnikovNP) - 3530904/90104
